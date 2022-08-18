@@ -2,7 +2,7 @@
 weight: 99
 title: "Check Sheet"
 author: "Lenny Lin"
-categories: ["Troubleshooting Database"]
+categories: [Troubleshooting Logbook]
 tags: ["Check Sheet"]
 toc: true
 date: "2022-08-16"

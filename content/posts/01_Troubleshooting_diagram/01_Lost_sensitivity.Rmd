@@ -4,7 +4,7 @@ title: "Lost Sensitivity"
 author: "Lenny Lin"
 date: "2022-08-16"
 categories: [Troubleshooting Logbook]
-tags: 
+tags: [Sensitivity]
 toc: yes
 lastmod: "2022-08-16"
 ---
