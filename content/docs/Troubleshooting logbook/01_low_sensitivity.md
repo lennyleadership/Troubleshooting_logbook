@@ -28,9 +28,10 @@ toc: true
 Tool used: Visual Inspection
 
 Root Cause: Gas flow is low  
+<div class = "row">
 <img width ="720" height= "400" src = "/docs/images/Screenshot 2022-08-16 145126.png" style ="float: left" HSPACE="10" VSPACE="10"/>  
-<figure> The pressure readings on the top are different. The right is lower than the left.
-
+<figure> The pressure readings on the top are different. The right is lower than the left.</figure>
+</div>
 
 ## Tool and Root Cause #2
 
