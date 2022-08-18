@@ -1,6 +1,6 @@
 ---
 weight: 99
-title: "Check Sheet"
+title: "Check Sheet Diagram"
 author: "Lenny Lin"
 categories: [Troubleshooting Logbook]
 tags: ["Check Sheet"]
