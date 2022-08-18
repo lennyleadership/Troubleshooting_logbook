@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: Troubleshooting Database
+title: Troubleshooting Logbook
 authors: null
 categories: null
 date: "2022-08-16"
