@@ -3,7 +3,7 @@ weight: 2
 title: Zero Signal
 authors: null
 categories: null
-tags: null
+tags: [No Signal]
 date: "2022-08-16"
 description:  
 draft: false
@@ -18,7 +18,7 @@ toc: true
 ---
 
 ## Symptom
-Zero signal
+Zero signal with LC-MS/MS
 
 ## Root Cause
 **1. Valve at ion source was closed**  
