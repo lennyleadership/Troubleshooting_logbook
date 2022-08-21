@@ -26,7 +26,6 @@ toc: true
 
 <div class = "row">
 
-
 <b>Troubleshooting Tool</b>:  
 
 <b>Root Cause</b>:  

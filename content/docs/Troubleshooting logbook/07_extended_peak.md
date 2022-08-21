@@ -1,6 +1,6 @@
 ---
-weight: 6
-title: Peak Bite
+weight: 7
+title: Widen Peak
 authors: null
 categories: null
 tags: [Peak Shape]
@@ -19,18 +19,16 @@ toc: true
 
 ## Symptom
 <div class = "row">
-<img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-18 153531.png" style ="float: left" HSPACE="10" VSPACE="10"/>
-Peak bite
+<img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-18 154827.png" style ="float: left" HSPACE="10" VSPACE="10"/>
 </div>
 
 ## Troubleshooting Tool and Root Cause
 
 <div class = "row">
 
-
 <b>Troubleshooting Tool</b>: Experience  
 
-<b>Root Cause</b>: Temazepam is causing `ion suppression` at the internal standard.  
+<b>Root Cause</b>: The guard column had 700 injections.  
 
 </div>
 

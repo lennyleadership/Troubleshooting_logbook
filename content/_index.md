@@ -14,7 +14,7 @@ The advantage of such approach is that it can take screenshots or images of scan
 The purposes of digitizing troubleshooting logbook go beyond a conventional logbook. It could 1) search keywords and look up solutions from previous experience legacy.  
 2) control versions to comply with requirements of quality management.
 
-In this prototype, I have collected some problems and troubleshooting with LC-MS/MS or HPLC from online sources, such as websites and webinars for demonstration purpose.  An offline troubleshooting logbook is an option.
+An offline troubleshooting logbook is an option.
 
 
 Lenny Lin

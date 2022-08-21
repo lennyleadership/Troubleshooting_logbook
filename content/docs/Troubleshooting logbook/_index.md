@@ -15,3 +15,5 @@ bookCollapseSection: true
 
 <!--more-->
 ---
+
+In this prototype, I have collected some problems and troubleshooting with LC-MS/MS or HPLC from online sources, such as websites and webinars for demonstration purpose.  
