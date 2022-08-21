@@ -27,10 +27,10 @@ toc: true
 <div class = "row">
 
 
-**Troubleshooting Tool**:  
+<b>Troubleshooting Tool</b>:  
 
-**Root Cause**:  
+<b>Root Cause</b>:  
 
 </div>
 
-**Reference**:  
+[*Reference*]()  

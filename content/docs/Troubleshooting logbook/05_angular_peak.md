@@ -3,7 +3,7 @@ weight: 5
 title: Angular Peak Shape
 authors: null
 categories: null
-tags: [Peak Shape]
+tags: [Peak Shape, Inter-scan Delay]
 date: "2022-08-21"
 description:  
 draft: false
@@ -26,10 +26,10 @@ toc: true
 
 <div class = "row">
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-18 150328.png" style ="float: left" HSPACE="10" VSPACE="10"/>
-**Troubleshooting Tool**:  Observation  
+<b>Troubleshooting Tool</b>:  Observation  
 
-**Root Cause**: The Waters service guy was on site, and he was troubleshooting something. And he thought maybe the problem was the Interscan delay, and he changed it from 3 msec. to 100 msec.  
+<b>Root Cause</b>: The Waters service guy was on site, and he was troubleshooting something. And he thought maybe the problem was the Interscan delay, and he changed it from 3 msec. to 100 msec.  
 
 </div>
 
-**Reference**:  
+[*Reference*]()  

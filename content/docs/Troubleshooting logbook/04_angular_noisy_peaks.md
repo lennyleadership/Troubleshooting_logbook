@@ -28,9 +28,9 @@ The peak on the left is angular-looking.  The peak on the right is noisy.
 <div class = "row">
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-18 144820.png" style ="float: left" HSPACE="10" VSPACE="10"/>
 
-**Troubleshooting Tool**: Visual check
+<b>Troubleshooting Tool</b>: Visual check
 
-**Root Cause**: Dwell time setting
+<b>Root Cause</b>: Dwell time setting
 </div>
 
-**Reference**:  
+[*Reference*]()  
