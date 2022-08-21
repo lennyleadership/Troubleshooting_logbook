@@ -18,10 +18,19 @@ toc: true
 ---
 
 ## Symptom
+<div class = "row">
 
+</div>
 
 ## Troubleshooting Tool and Root Cause
 
-**Troubleshooting Tool**:
+<div class = "row">
 
-**Root Cause**:
+
+**Troubleshooting Tool**:  
+
+**Root Cause**:  
+
+</div>
+
+**Reference**:  
