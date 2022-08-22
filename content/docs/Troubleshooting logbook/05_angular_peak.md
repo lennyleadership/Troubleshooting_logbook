@@ -2,7 +2,7 @@
 weight: 5
 title: Angular Peak Shape
 authors: null
-categories: [LC-MS/MS: Peak Shape]
+categories: ["LC-MS/MS: Peak Shape"]
 tags: [Inter-scan Delay]
 date: "2022-08-21"
 description:  

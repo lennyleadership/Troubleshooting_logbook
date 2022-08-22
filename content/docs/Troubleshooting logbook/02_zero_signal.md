@@ -2,7 +2,7 @@
 weight: 2
 title: Zero Signal
 authors: null
-categories: [LC-MS/MS: Sensitivity]
+categories: ["LC-MS/MS: Sensitivity"]
 tags: 
 date: "2022-08-16"
 description:  
@@ -21,8 +21,8 @@ toc: true
 Zero signal with LC-MS/MS
 
 ## Tool and Root Cause
-Tool: Visual Inspection  
-Root cause: Valve at ion source was closed
+<b>Tool</b>: Visual Inspection  
+<b>Root cause</b>: Valve at ion source was closed
 
 <div class = "row">
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-16 150048.png" style ="float: left" HSPACE="10" VSPACE="10"/>

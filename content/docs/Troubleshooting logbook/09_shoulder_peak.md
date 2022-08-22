@@ -2,7 +2,7 @@
 weight: 9
 title: Shoulder on a Peak
 authors: null
-categories: [LC-MS/MS: Peak Shape]
+categories: ["LC-MS/MS: Peak Shape"]
 tags: [Plumbing, Ferrule]
 date: "2022-08-21"
 description:  

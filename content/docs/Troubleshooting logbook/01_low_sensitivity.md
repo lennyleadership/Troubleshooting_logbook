@@ -2,7 +2,7 @@
 weight: 1
 title: Low Sensitivity
 authors: null
-categories: [LC-MS/MS: Sensitivity]
+categories: ["LC-MS/MS: Sensitivity"]
 tags: 
 date: "2022-08-16"
 description:  
@@ -25,9 +25,9 @@ toc: true
 
 ## Tool and Root Cause #1
 
-Tool used: Visual Inspection
+<b>Tool used</b>: Visual Inspection
 
-Root Cause: Gas flow is low  
+<b>Root Cause</b>: Gas flow is low  
 <div class = "row">
 <img width ="720" height= "400" src = "/docs/images/Screenshot 2022-08-16 145126.png" style ="float: left" HSPACE="10" VSPACE="10"/>  
 <figure> The pressure readings on the top are different. The right is lower than the left.</figure>
@@ -35,8 +35,8 @@ Root Cause: Gas flow is low
 
 ## Tool and Root Cause #2
 
-Tool used: Visual Inspection
-Root Cause: The ESI probe adjustment
+<b>Tool used</b>: Visual Inspection
+<b>Root Cause</b>: The ESI probe adjustment
 <div class = "row">
 <img width ="720" height= "400" src = "/docs/images/Screenshot 2022-08-16 145704.png" style ="float: left" HSPACE="10" VSPACE="10"/>
 Maybe a millimeter and a half and this is barely protruding at all. We're getting barely protruding on whistle blow sensitive this is `the low sensitivity`. So this is not properly adjusted for this simply configuration. And nebulization is not as effective.  
