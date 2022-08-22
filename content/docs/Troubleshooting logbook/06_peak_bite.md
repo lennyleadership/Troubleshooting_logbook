@@ -2,7 +2,7 @@
 weight: 6
 title: Peak Bite
 authors: null
-categories: [Peak Shape]
+categories: [LC-MS/MS: Peak Shape]
 tags: 
 date: "2022-08-21"
 description:  

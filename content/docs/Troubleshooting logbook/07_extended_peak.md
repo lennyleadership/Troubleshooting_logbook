@@ -2,7 +2,7 @@
 weight: 7
 title: Widen Peak
 authors: null
-categories: [Peak Shape]
+categories: [LC-MS/MS: Peak Shape]
 tags: 
 date: "2022-08-21"
 description:  

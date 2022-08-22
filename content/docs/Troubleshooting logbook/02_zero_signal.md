@@ -2,7 +2,7 @@
 weight: 2
 title: Zero Signal
 authors: null
-categories: [Sensitivity]
+categories: [LC-MS/MS: Sensitivity]
 tags: 
 date: "2022-08-16"
 description:  

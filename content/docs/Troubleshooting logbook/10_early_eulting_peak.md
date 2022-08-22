@@ -2,7 +2,7 @@
 weight: 10
 title: Early Eluting Peak
 authors: null
-categories: [Peak Shape]
+categories: [LC-MS/MS: Peak Shape]
 tags: [Plumbing, Ferrule]
 date: "2022-08-21"
 description:  

@@ -2,7 +2,7 @@
 weight: 3
 title: Mobi Peak
 authors: null
-categories: [Peak Shape]
+categories: [LC-MS/MS: Peak Shape]
 tags:
 date: "2022-08-18"
 description:  
