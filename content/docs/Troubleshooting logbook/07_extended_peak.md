@@ -26,7 +26,7 @@ toc: true
 
 <div class = "row">
 
-<b>Troubleshooting Tool</b>: Experience  
+<b>Troubleshooting Tool</b>: Investigation  
 
 <b>Root Cause</b>: The guard column had 700 injections.  
 

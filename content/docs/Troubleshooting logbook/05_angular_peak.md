@@ -27,6 +27,7 @@ toc: true
 <div class = "row">
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-18 150328.png" style ="float: left" HSPACE="10" VSPACE="10"/>
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-18 150238.png" style ="float: left" HSPACE="10" VSPACE="10"/>
+
 <b>Troubleshooting Tool</b>:  Observation  
 
 <b>Root Cause</b>: The Waters service guy was on site, and he was troubleshooting something. And he thought maybe the problem was the Interscan delay, and he changed it from 3 msec. to 100 msec.  

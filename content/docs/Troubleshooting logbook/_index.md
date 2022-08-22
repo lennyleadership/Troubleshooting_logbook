@@ -17,3 +17,5 @@ bookCollapseSection: true
 ---
 
 In this prototype, I have collected some problems and troubleshooting with LC-MS/MS or HPLC from online sources, such as websites and webinars for demonstration purpose.  
+
+<img width ="360" height= "200" src = "/docs/images/" style ="float: left" HSPACE="10" VSPACE="10"/>

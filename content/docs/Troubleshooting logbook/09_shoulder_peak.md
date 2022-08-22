@@ -29,7 +29,7 @@ toc: true
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-18 202534.png" style ="float: left" HSPACE="10" VSPACE="10"/>  
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-18 202741.png" style ="float: left" HSPACE="10" VSPACE="10"/>
 
-<b>Troubleshooting Tool</b>: 1) Checked the blank, there was an interference peak in it.  2) Reran samples. 3) Experience.  
+<b>Troubleshooting Tool</b>: 1) Checked the blank, there was an interference peak in it.  2) Reran samples. 3) Further investigation.  
 
 <b>Root Cause</b>: The wrong ferrule  
 

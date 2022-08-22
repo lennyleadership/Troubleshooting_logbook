@@ -27,7 +27,7 @@ toc: true
 <div class = "row">
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-18 161955.png" style ="float: left" HSPACE="10" VSPACE="10"/>
 
-<b>Troubleshooting Tool</b>:  Experience
+<b>Troubleshooting Tool</b>:  Investigation
 
 <b>Root Cause</b>: Several people did things with plumbing, and one fitting was replaced.  
 

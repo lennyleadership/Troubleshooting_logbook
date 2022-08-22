@@ -28,7 +28,7 @@ Peak bite
 <div class = "row">
 
 
-<b>Troubleshooting Tool</b>: Experience  
+<b>Troubleshooting Tool</b>: Investigation   
 
 <b>Root Cause</b>: Temazepam is causing `ion suppression` at the internal standard.  
 
