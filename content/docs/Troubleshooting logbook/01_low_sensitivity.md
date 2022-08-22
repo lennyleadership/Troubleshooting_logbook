@@ -42,6 +42,6 @@ toc: true
 Maybe a millimeter and a half and this is barely protruding at all. We're getting barely protruding on whistle blow sensitive this is `the low sensitivity`. So this is not properly adjusted for this simply configuration. And nebulization is not as effective.  
 </div>
 
-## Reference
-[MSACL: LC-MSMS Troubleshooting 101: Tips and Tricks for Getting Started : PART 1](https://www.msacl.org/index.php?header=Learning_Center&tab=Video_Library&subtab=Search_Video_Library)
+*Reference*:  
+[MSACL: LC-MSMS Troubleshooting 101: Tips and Tricks for Getting Started : PART 1](https://www.msacl.org/index.php?header=Learning_Center&tab=Video_Library&subtab=Search_Video_Library)  
 

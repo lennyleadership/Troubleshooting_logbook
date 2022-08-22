@@ -34,4 +34,5 @@ Peak bite
 
 </div>
 
-[*Reference*]()  
+*Reference*:  
+[MSACL: LC-MSMS Troubleshooting 101: Tips and Tricks for Getting Started : PART 1](https://www.msacl.org/index.php?header=Learning_Center&tab=Video_Library&subtab=Search_Video_Library)  

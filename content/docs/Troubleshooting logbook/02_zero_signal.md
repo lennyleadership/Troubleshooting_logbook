@@ -28,3 +28,7 @@ Zero signal with LC-MS/MS
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-16 150048.png" style ="float: left" HSPACE="10" VSPACE="10"/>
 <figure>So basically, there is a valve that you close when you're doing this cleaning of this piece. You put this back in and you forgot to just switch that to it's open. So there's absolutely zero signal in this case, because there's no ion path.</figure>   
 </div>  
+
+
+*Reference*:  
+[MSACL: LC-MSMS Troubleshooting 101: Tips and Tricks for Getting Started : PART 1](https://www.msacl.org/index.php?header=Learning_Center&tab=Video_Library&subtab=Search_Video_Library)  
