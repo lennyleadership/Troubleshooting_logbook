@@ -29,7 +29,7 @@ It is just affecting the earliest peak.
 <div class = "row">
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-18 213225.png" style ="float: left" HSPACE="10" VSPACE="10"/>
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-18 213647.png" style ="float: left" HSPACE="10" VSPACE="10"/>
-<b>Troubleshooting Tool</b>: Experience  
+<b>Troubleshooting Tool</b>: Investigation  
 
 <b>Root Cause</b>: A worn ferrule
 
