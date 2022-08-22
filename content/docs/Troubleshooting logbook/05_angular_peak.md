@@ -2,8 +2,8 @@
 weight: 5
 title: Angular Peak Shape
 authors: null
-categories: null
-tags: [Peak Shape, Inter-scan Delay]
+categories: [Peak Shape]
+tags: [Inter-scan Delay]
 date: "2022-08-21"
 description:  
 draft: false

@@ -2,8 +2,8 @@
 weight: 3
 title: Mobi Peak
 authors: null
-categories: null
-tags: [Peak]
+categories: [Peak Shape]
+tags:
 date: "2022-08-18"
 description:  
 draft: true

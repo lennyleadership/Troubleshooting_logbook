@@ -2,8 +2,8 @@
 weight: 4
 title: Angular Peak and Noisy Peak Shape
 authors: null
-categories: null
-tags: [Peak Shape, Dwell Time]
+categories: [Peak Shape]
+tags: [Dwell Time]
 date: "2022-08-21"
 description:  
 draft: false

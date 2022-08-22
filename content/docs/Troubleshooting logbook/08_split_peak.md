@@ -2,8 +2,8 @@
 weight: 8
 title: Split Peak
 authors: null
-categories: null
-tags: [Peak Shape, Plumbing, Fitting]
+categories: [Peak Shape]
+tags: [Plumbing, Fitting]
 date: "2022-08-21"
 description:  
 draft: false

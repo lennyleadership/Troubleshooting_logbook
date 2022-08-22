@@ -2,8 +2,8 @@
 weight: 6
 title: Peak Bite
 authors: null
-categories: null
-tags: [Peak Shape]
+categories: [Peak Shape]
+tags: 
 date: "2022-08-21"
 description:  
 draft: false

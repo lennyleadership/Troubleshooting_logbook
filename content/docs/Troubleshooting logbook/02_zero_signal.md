@@ -2,8 +2,8 @@
 weight: 2
 title: Zero Signal
 authors: null
-categories: null
-tags: [No Signal]
+categories: [Sensitivity]
+tags: 
 date: "2022-08-16"
 description:  
 draft: false
