@@ -1,15 +1,7 @@
 ---
-bookFlatSection: true
+bookCollapseSection: true
 ---
 
-# Section
-
-Section renders pages in section as definition list, using title and description.
-
-## Example
-
-```tpl
-{{</* section */>}}
-```
+<img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-23 090236.png" style ="float: middle"/>
 
 {{<section>}}
