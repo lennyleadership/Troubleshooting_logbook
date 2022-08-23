@@ -1,6 +1,6 @@
 ---
 weight: 4
-title: Angular Peak and Noisy Peak Shape
+title: Dwell Time Setting Issue
 authors: null
 categories: ["LC-MS/MS: Peak Shape"]
 tags: [Dwell Time]
@@ -35,3 +35,6 @@ The peak on the left is angular-looking.  The peak on the right is noisy.
 
 *Reference*:  
 [MSACL: LC-MSMS Troubleshooting 101: Tips and Tricks for Getting Started : PART 1](https://www.msacl.org/index.php?header=Learning_Center&tab=Video_Library&subtab=Search_Video_Library)  
+
+
+{{< button href="https://troubleshooting-logbook.netlify.app/docs/troubleshooting-logbook/peak-shape/" >}}Return{{< /button >}}

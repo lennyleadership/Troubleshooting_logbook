@@ -1,9 +1,9 @@
 ---
 weight: 6
-title: Peak Bite
+title: Ion Suppression Issue
 authors: null
 categories: ["LC-MS/MS: Peak Shape"]
-tags: 
+tags: [Peak Bite]
 date: "2022-08-21"
 description:  
 draft: false

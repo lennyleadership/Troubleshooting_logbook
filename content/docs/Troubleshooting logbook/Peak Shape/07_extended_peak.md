@@ -1,9 +1,9 @@
 ---
 weight: 7
-title: Widen Peak
+title: Aged Guard Column Issue
 authors: null
 categories: ["LC-MS/MS: Peak Shape"]
-tags: 
+tags: [Widen Peak]
 date: "2022-08-21"
 description:  
 draft: false

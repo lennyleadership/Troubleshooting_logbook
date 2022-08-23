@@ -1,6 +1,6 @@
 ---
 weight: 5
-title: Angular Peak Shape
+title: Inter-scan Delay Setting Issue
 authors: null
 categories: ["LC-MS/MS: Peak Shape"]
 tags: [Inter-scan Delay]

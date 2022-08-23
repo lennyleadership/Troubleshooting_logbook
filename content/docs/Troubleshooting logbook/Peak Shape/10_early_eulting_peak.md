@@ -1,9 +1,9 @@
 ---
 weight: 10
-title: Early Eluting Peak
+title: Ferrule Issue - Worn Ferrule
 authors: null
 categories: ["LC-MS/MS: Peak Shape"]
-tags: [Plumbing, Ferrule]
+tags: [Plumbing, Ferrule, Early Eluting Peak]
 date: "2022-08-21"
 description:  
 draft: false
