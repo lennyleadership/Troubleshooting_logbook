@@ -1,5 +1,5 @@
 ---
-weight: 4
+weight: 1
 title: Dwell Time Setting Issue
 authors: null
 categories: ["LC-MS/MS: Peak Shape"]

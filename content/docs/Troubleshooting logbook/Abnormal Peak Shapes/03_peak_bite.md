@@ -1,9 +1,9 @@
 ---
-weight: 7
-title: Aged Guard Column Issue
+weight: 3
+title: Ion Suppression Issue
 authors: null
 categories: ["LC-MS/MS: Peak Shape"]
-tags: [Widen Peak]
+tags: [Peak Bite]
 date: "2022-08-21"
 description:  
 draft: false
@@ -19,17 +19,18 @@ toc: true
 
 ## Symptom
 <div class = "row">
-<img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-18 154827.png" style ="float: left" HSPACE="10" VSPACE="10"/>  
-Peak is widen. 
+<img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-18 153531.png" style ="float: left" HSPACE="10" VSPACE="10"/>
+Peak bite
 </div>
 
 ## Troubleshooting Tool and Root Cause
 
 <div class = "row">
 
-<b>Troubleshooting Tool</b>: Investigation  
 
-<b>Root Cause</b>: The guard column had 700 injections.  
+<b>Troubleshooting Tool</b>: Investigation   
+
+<b>Root Cause</b>: Temazepam is causing `ion suppression` at the internal standard.  
 
 </div>
 

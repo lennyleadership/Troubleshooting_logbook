@@ -1,5 +1,5 @@
 ---
-weight: 8
+weight: 5
 title: Fitting Issue
 authors: null
 categories: ["LC-MS/MS: Peak Shape"]

@@ -1,5 +1,5 @@
 ---
-weight: 9
+weight: 6
 title: Ferrule Issue - Inappropriate Ferrule
 authors: null
 categories: ["LC-MS/MS: Peak Shape"]

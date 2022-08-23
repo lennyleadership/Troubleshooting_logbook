@@ -1,5 +1,5 @@
 ---
-weight: 10
+weight: 7
 title: Ferrule Issue - Worn Ferrule
 authors: null
 categories: ["LC-MS/MS: Peak Shape"]

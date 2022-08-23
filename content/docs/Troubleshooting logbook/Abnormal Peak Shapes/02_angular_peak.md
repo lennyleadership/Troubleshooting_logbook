@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 2
 title: Inter-scan Delay Setting Issue
 authors: null
 categories: ["LC-MS/MS: Peak Shape"]
