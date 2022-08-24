@@ -1,6 +1,6 @@
 ---
 weight: 01
-title: Extra (Ghost) Peak
+title: "Extra (Ghost) Peak"
 authors: null
 categories: [HPLC: Peak]
 tags: [Extra Peak]
