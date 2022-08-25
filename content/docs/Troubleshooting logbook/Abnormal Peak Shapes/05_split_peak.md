@@ -2,7 +2,7 @@
 weight: 5
 title: Fitting Issue
 authors: null
-categories: ["LC-MS/MS: Peak Shape"]
+categories: ["LC: Peak Shape"]
 tags: [Plumbing, Fitting, Split Peak]
 date: "2022-08-21"
 description:  

@@ -2,7 +2,7 @@
 weight: 2
 title: Inter-scan Delay Setting Issue
 authors: null
-categories: ["LC-MS/MS: Peak Shape"]
+categories: ["MS/MS: Peak Shape"]
 tags: [Inter-scan Delay]
 date: "2022-08-21"
 description:  
