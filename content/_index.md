@@ -1,30 +1,19 @@
 ---
-title: Introduction
+title: About
 type: docs
 ---
 
-## Introduction 
 
-The idea of developing an electronic troubleshooting logbook prototype came from my experience with the practice at LifeLabs (Burnaby, BC) where we wrote down troubleshooting on paper, then scanned the hard copy to pdf and stored away on a server.  
+This is an electronic troubleshooting logbook prototype.  The idea of developing it came from my experience with the practice at LifeLabs (Burnaby, BC) where we wrote down troubleshooting on paper, then scanned the hard copy to pdf and stored away on a server. There is a fleet of over 10 LC-MS/MS instruments in operations.  Many of troubleshooting records were generated. It is my attempt to address the efficiency of searching problems and solutions among records.
 
-This electronic troubleshooting logbook prototype is HTML-based, rather than SQL-based.  
+This electronic troubleshooting logbook prototype is HTML-based, rather than SQL-based.  One reason behind it is: It is a small project that the lab would not get much support from the organization IT group.  A lab scientist would not have skill in building a SQL database, especially handling screenshot or images with SQL database.  However, because this prototype has features of categories and tags,  the problems and solutions are organized. Therefore they can be sorted. 
 
-It is my attempt to digitize troubleshooting records without IT efforts and without implementing database in the laboratory business.  
+The version of this electronic troubleshooting logbook prototype can be controlled to comply with requirements of quality management by cooperating with github which is owned and operated by Microsoft. Therefore data security is manageable. 
 
-The advantage of such approach is that it can take screenshots or images of scanned documents.  It is more advanced than SQL database approach. 
+An offline troubleshooting logbook could also be implemented in the laboratory setting.
 
-The purposes of digitizing troubleshooting logbook go beyond a conventional logbook. It could:  
-1) search keywords and look up solutions from previous experience legacy.  
-2) control versions to comply with requirements of quality management.
 
-An offline troubleshooting logbook is an option.
 
-## About
-
-1) This logbook is built with R packages, Markdown, HTML5, and css.  
-
-2) All problems and troubleshooting were organized with categories and tags.  To view categories and tags, please click "Categories and Tags" on the left panel. Then click the icon on the top right corner.  Below is the screenshot.  
-<img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-22.png" />
 
 Lenny Lin
 
