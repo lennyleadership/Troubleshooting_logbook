@@ -17,6 +17,8 @@ Lenny Lin
 
 <i class='fa fa-linkedin'></i>
 
-<i class="fa fa-linkedin-square" style="font-size:48px;color:red"></i>
+<i class="fa fa-linkedin-square" style="font-size:24px;color:red"></i>
 
 Date: 2022-08-18
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
