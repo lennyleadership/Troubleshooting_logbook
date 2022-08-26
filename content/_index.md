@@ -17,4 +17,6 @@ Lenny Lin
 
 <i class='fa fa-linkedin'></i>
 
+<i class="fa fa-linkedin-square" style="font-size:48px;color:red"></i>
+
 Date: 2022-08-18
