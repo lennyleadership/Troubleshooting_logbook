@@ -3,7 +3,7 @@ weight: 6
 title: Ferrule Issue - Inappropriate Ferrule
 authors: null
 categories: ["LC: Peak Shape"]
-tags: [Plumbing, Ferrule, Shoulder on a Peak]
+tags: [Plumbing, Ferrule, Peak Shoulder]
 date: "2022-08-21"
 description:  
 draft: false
