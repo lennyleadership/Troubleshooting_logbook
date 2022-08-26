@@ -13,12 +13,11 @@ An online and an offline option are doable, but I prefer the online option becau
 
 
 Lenny Lin  
-<i class="fa-brands fa-linkedin"></i>[LinkedIn](https://www.linkedin.com/in/lenny-lin/)
 
-<i class='fa fa-linkedin'></i>
-
-<i class="fa fa-linkedin-square" style="font-size:24px;color:red"></i>
+[<i class="fa fa-linkedin-square" style="font-size:24px;color:red"></i>](https://www.linkedin.com/in/lenny-lin/)
 
 Date: 2022-08-18
 
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
