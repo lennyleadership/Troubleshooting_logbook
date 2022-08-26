@@ -1,12 +1,12 @@
 ---
 weight: 3
-title: "Abnormal Peak Shape Diagram"
+title: "Peak Broadening Diagram"
 author: "Lenny Lin"
 categories: [Troubleshooting Logbook]
 tags: [Peak]
 toc: true
 date: "2022-08-16"
-lastmod: "2022-08-16"
+lastmod: "2022-08-26"
 draft: true
 ---
 
@@ -25,15 +25,14 @@ library(SixSigma)
 
 
 ```{r, echo= F }
-effect <- "Abnormal Peak"
-causes.gr <- c("Method Settings", "Mass Spec","LC-Column", "LC-Plumbing")
+effect <- "Peak \nBroadening"
+causes.gr <- c("LC-Column", "TBD")
 causes <- vector(mode = "list", length = length(causes.gr))
-causes[1] <- list(c("---Dwell time", "---Interscan delay"))
-causes[2] <- list(c("---Ion supression"))
-causes[3] <- list(c("---Aged guard column"))
-causes[4] <- list(c("---Fitting", "---Inappropriate ferrule", "---Worn ferrule"))
+causes[1] <- list(c("---Aged guard column"))
+causes[2] <- list(c("---TBD"))
 
-ss.ceDiag(effect, causes.gr, causes, main =("Cause and Effect Diagram \n - Abnormal Peak"), sub = "",
+
+ss.ceDiag(effect, causes.gr, causes, main =("Cause and Effect Diagram \n - Peak Broadening"), sub = "",
           ss.col = c("#8ad472", "#8ad472", "#8ad472", "#8ad472","#8ad472"))
 ```
 
