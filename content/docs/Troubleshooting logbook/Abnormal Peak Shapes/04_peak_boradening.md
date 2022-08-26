@@ -3,7 +3,7 @@ weight: 4
 title: Aged Guard Column Issue
 authors: null
 categories: ["LC: Peak Shape"]
-tags: [Widen Peak]
+tags: [Peak Broadening]
 date: "2022-08-21"
 description:  
 draft: false
@@ -19,8 +19,8 @@ toc: true
 
 ## Symptom
 <div class = "row">
-<img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-18 154827.png" style ="float: left" HSPACE="10" VSPACE="10"/>  
-Peak is widen. 
+<img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-18 154827.png"/>  
+<figure>Peak is broadening.</figure> 
 </div>
 
 ## Troubleshooting Tool and Root Cause
