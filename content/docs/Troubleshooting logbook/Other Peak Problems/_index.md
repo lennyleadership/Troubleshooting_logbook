@@ -1,6 +1,6 @@
 ---
 weight: 11
-title: Abnormal Peak Shapes
+title: Other Peak Problems
 bookCollapseSection: true
 ---
 
