@@ -1,0 +1,41 @@
+---
+weight: 3
+title: "Fronting Peak Diagram"
+author: "Lenny Lin"
+categories: [Troubleshooting Logbook]
+tags: [Peak]
+toc: true
+date: "2022-08-16"
+lastmod: "2022-08-16"
+draft: true
+---
+
+
+<!--more-->
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+```{r, warning = F, include=F}
+library(SixSigma)
+```
+
+
+```{r, echo= F }
+effect <- "Fronting Peak"
+causes.gr <- c("")
+causes <- vector(mode = "list", length = length(causes.gr))
+causes[1] <- list(c("---Dwell time", "---Interscan delay"))
+
+
+ss.ceDiag(effect, causes.gr, causes, main =("Cause and Effect Diagram \n - Fronting Peak"), sub = "",
+          ss.col = c("#8ad472", "#8ad472", "#8ad472", "#8ad472","#8ad472"))
+```
+
+
+
+
+

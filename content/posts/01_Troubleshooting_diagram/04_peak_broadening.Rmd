@@ -1,0 +1,43 @@
+---
+weight: 3
+title: "Abnormal Peak Shape Diagram"
+author: "Lenny Lin"
+categories: [Troubleshooting Logbook]
+tags: [Peak]
+toc: true
+date: "2022-08-16"
+lastmod: "2022-08-16"
+draft: true
+---
+
+
+<!--more-->
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+```{r, warning = F, include=F}
+library(SixSigma)
+```
+
+
+```{r, echo= F }
+effect <- "Abnormal Peak"
+causes.gr <- c("Method Settings", "Mass Spec","LC-Column", "LC-Plumbing")
+causes <- vector(mode = "list", length = length(causes.gr))
+causes[1] <- list(c("---Dwell time", "---Interscan delay"))
+causes[2] <- list(c("---Ion supression"))
+causes[3] <- list(c("---Aged guard column"))
+causes[4] <- list(c("---Fitting", "---Inappropriate ferrule", "---Worn ferrule"))
+
+ss.ceDiag(effect, causes.gr, causes, main =("Cause and Effect Diagram \n - Abnormal Peak"), sub = "",
+          ss.col = c("#8ad472", "#8ad472", "#8ad472", "#8ad472","#8ad472"))
+```
+
+
+
+
+
