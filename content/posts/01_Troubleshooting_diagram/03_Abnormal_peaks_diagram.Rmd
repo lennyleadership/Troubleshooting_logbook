@@ -26,11 +26,12 @@ library(SixSigma)
 
 ```{r, echo= F }
 effect <- "Abnormal Peaks"
-causes.gr <- c("Method Settings", "Mass Spec", "LC-Plumbing")
+causes.gr <- c("Method Settings", "Mass Spec", "LC-Plumbing", "LC-Column")
 causes <- vector(mode = "list", length = length(causes.gr))
 causes[1] <- list(c("---Dwell time", "---Interscan delay"))
 causes[2] <- list(c("---Ion supression"))
 causes[3] <- list(c("---Fitting", "---Inappropriate ferrule", "---Worn ferrule"))
+causes[4] <- list(c("--- Aged column", "--- Aged guard column"))
 
 ss.ceDiag(effect, causes.gr, causes, main =("Cause and Effect Diagram \n - Abnormal Peaks"), sub = "",
           ss.col = c("#8ad472", "#8ad472", "#8ad472", "#8ad472","#8ad472"))

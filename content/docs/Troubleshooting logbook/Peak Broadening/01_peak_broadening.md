@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: Aged Guard Column Issue
+title: Guard Column Issue
 authors: null
 categories: ["LC: Peak Shape"]
 tags: [Peak Broadening]
@@ -28,7 +28,12 @@ The analyte is Temazepam.  The peak is broadened, almost to split for all three 
 
 <div class = "row">
 
-<b>Troubleshooting Tool</b>: Investigation  
+<b>Troubleshooting Tool</b>: 
+1) <b>Q</b>: Check the Maintenance Log.   
+<b>A</b>: 615 injections.
+2) <b>Q</b>: Check the system suitability tests results.    
+<b>A</b>: They like normal.  
+
 
 <b>Root Cause</b>: The guard column should be replaced at 500 injections, and there were 615 injections on it.  
 
@@ -36,5 +41,6 @@ The analyte is Temazepam.  The peak is broadened, almost to split for all three 
 
 *Reference*:  
 [MSACL: LC-MSMS Troubleshooting 101: Tips and Tricks for Getting Started : PART 1](https://www.msacl.org/index.php?header=Learning_Center&tab=Video_Library&subtab=Search_Video_Library)  
+[MSACL: The Basics of LC-MSMS Troubleshooting: Tools, Strategy, Cases](https://www.msacl.org/index.php?header=Learning_Center&tab=Video_Library&subtab=Search_Video_Library)  
 
-{{< button href="https://troubleshooting-logbook.netlify.app/docs/troubleshooting-logbook/abnormal-peak-shapes/" >}}Return{{< /button >}}
+<button class="button" onclick="history.back()">Go Back</button>
