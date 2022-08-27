@@ -25,9 +25,9 @@ We don't use a guard column.
 
 </div>
 
-## Troubleshooting Tool and Root Cause
+## Investigation, Troubleshooting Tool and Root Cause
 
-<b>Investigation</b>: 
+<b>Investigation and Tools used</b>:
 12) <b>Q</b>: Check the Maintenance Log.   
 <b>A</b>: There were 850 injections and we normally change it at 2500. So it doesn't really look like column degradation.   
 2) <b>Q</b>: Is sample overloaded?   
