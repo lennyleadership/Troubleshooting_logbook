@@ -26,10 +26,11 @@ library(SixSigma)
 
 ```{r, echo= F }
 effect <- "Fronting Peak"
-causes.gr <- c("Sample Preparation", "LC-Column")
+causes.gr <- c("Sample Preparation", "LC-Column", "LC-Method")
 causes <- vector(mode = "list", length = length(causes.gr))
 causes[1] <- list(c("---Reconstitution solvent"))
-causes[2] <- list(c("---Sample overloaded", "---Column ageing"))
+causes[2] <- list(c("---Column ageing"))
+causes[3] <- list(c("---Sample overloaded"))
 
 ss.ceDiag(effect, causes.gr, causes, main =("Cause and Effect Diagram \n - Fronting Peak"), sub = "",
           ss.col = c("#8ad472", "#8ad472", "#8ad472", "#8ad472","#8ad472"))

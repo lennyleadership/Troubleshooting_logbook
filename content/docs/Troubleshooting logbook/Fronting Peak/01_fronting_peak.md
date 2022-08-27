@@ -19,7 +19,7 @@ toc: true
 
 ## Symptom
 <div class = "row">
-<img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-18 221057.png" style ="float: left" HSPACE="10" VSPACE="10"/>
+<img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-27 121537.png" style ="float: left" HSPACE="10" VSPACE="10"/>
 This is from marijuana metabolite.  The normal presentation is on the right, the fronting peaks on the left.  The peaks are all the same for three MRM. 
 We don't use a guard column.  
 
