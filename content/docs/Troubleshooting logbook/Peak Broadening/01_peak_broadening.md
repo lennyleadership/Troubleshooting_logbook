@@ -19,7 +19,8 @@ toc: true
 
 ## Symptom
 <div class = "row">
-<img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-18 154827.png"/>  
+<img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-18 154827.png"/>   
+The analyte is Temazepam.  The peak is broadened, almost to split for all three MRM.
 <figure>Peak is broadening.</figure> 
 </div>
 
@@ -29,7 +30,7 @@ toc: true
 
 <b>Troubleshooting Tool</b>: Investigation  
 
-<b>Root Cause</b>: The guard column had 700 injections.  
+<b>Root Cause</b>: The guard column should be replaced at 500 injections, and there were 615 injections on it.  
 
 </div>
 
