@@ -37,10 +37,7 @@ toc: true
 
 
 <b>Root Cause</b>: Sample was lost at the last step in the extraction using solid phase extraction.   
-<div class = "row">
-<img width ="720" height= "400" src = "/docs/images/.png" style ="float: left" HSPACE="10" VSPACE="10"/>  
-<figure></figure>
-</div>
+
 
 
 
