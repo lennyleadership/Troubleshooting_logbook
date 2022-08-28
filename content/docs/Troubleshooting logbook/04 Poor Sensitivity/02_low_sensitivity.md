@@ -19,7 +19,7 @@ toc: true
 
 ## Symptom
 <div class = "row">
-<img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-23 231811" style ="float: left" HSPACE="10" VSPACE="10"/>  
+<img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-23 231811.png" style ="float: left" HSPACE="10" VSPACE="10"/>  
 <figure>This is the marijuana metabolite at the lower limit of quantitation (the LLOQ) calibrator. Normally, the quantifier peak is about between 2000 - 3000 counts per second for the peak area. And in the problem chromatogram it's only 330.</figure> 
 </div>
 
