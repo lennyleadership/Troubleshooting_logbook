@@ -1,6 +1,6 @@
 ---
 weight: 3
-title: Leak Issue
+title: Post Column Leak Issue
 authors: null
 categories: ["LC-Sensitivity"]
 tags: [Leak]
@@ -31,7 +31,7 @@ toc: true
 2) <b>Q</b>: Had a feeling of something not right with the LC.  
 <b>A</b>: There was a pool in the tray underneath the post column switch.
 
-<b>Root Cause</b>: Leak underneath the post column switch.
+<b>Root Cause</b>: Leak underneath the post column switch.  The reason that chromatography was normal is that the leak was post column, the separation had already occurred. And the nature of this leak I guess, was such that 90% of the flow ended up in the tray beneath the valve and 10% of the flow went to the mass spec without any distortion in the peak. 
 
 <b>Lesson Learned</b>: why did the system suitability test pass if there was a leak present? Well, we had set the threshold too low.  
 
