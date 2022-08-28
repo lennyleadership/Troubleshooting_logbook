@@ -13,15 +13,13 @@ toc: true
 ---
 
 
-
 <!--more-->
 ---
 
 ## Symptom
 <div class = "row">
-<img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-18 154827.png"/>   
-The analyte is Temazepam.  The peak is broadened, almost to split for all three MRM.
-<figure>Peak is broadening.</figure> 
+<img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-18 154827.png" style ="float: left" HSPACE="10" VSPACE="10"/>   
+<figure>The analyte is Temazepam.  The peak is broadened, almost to split for all three MRM.</figure> 
 </div>
 
 ## Troubleshooting Tool and Root Cause

@@ -27,8 +27,8 @@ We don't use a guard column.
 
 ## Investigation, Troubleshooting Tool and Root Cause
 
-<b>Investigation and Tools used</b>:
-12) <b>Q</b>: Check the Maintenance Log.   
+<b>Investigation and Tools used</b>:  
+1) <b>Q</b>: Check the Maintenance Log.   
 <b>A</b>: There were 850 injections and we normally change it at 2500. So it doesn't really look like column degradation.   
 2) <b>Q</b>: Is sample overloaded?   
 <b>A</b>: The right volume was injected.  

@@ -25,7 +25,11 @@ toc: true
 
 ## Investigation, Troubleshooting Tool and Root Cause #1
 
-<b>Investigation and Tools used</b>: 
+<b>Investigation and Tools used</b>:   
+1) <b>Q</b>: Check the system suitability tests results.  
+<b>A</b>: test passed.  
+2) <b>Q</b>: Concern about the auto sampler.  
+<b>A</b>: 
 
 <b>Root Cause</b>: 
 

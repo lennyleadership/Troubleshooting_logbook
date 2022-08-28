@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: Low Sensitivity
+title: Gas flow issue
 authors: null
 categories: ["LC-MS/MS: Sensitivity"]
 tags: 

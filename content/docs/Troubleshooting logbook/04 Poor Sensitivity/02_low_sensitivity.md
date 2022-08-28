@@ -1,6 +1,6 @@
 ---
 weight: 2
-title: Low Sensitivity
+title: Sample was not collected
 authors: null
 categories: ["LC-MS/MS: Sensitivity"]
 tags: 
