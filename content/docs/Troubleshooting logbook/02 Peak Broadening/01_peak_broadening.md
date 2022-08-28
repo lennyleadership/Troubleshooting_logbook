@@ -15,6 +15,7 @@ toc: true
 
 <!--more-->
 ---
+<b>Note</b>: There was no problems with mobile phase or needle wash or any method changes.  
 
 ## Symptom
 <div class = "row">

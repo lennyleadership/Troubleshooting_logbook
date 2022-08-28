@@ -17,6 +17,8 @@ toc: true
 <!--more-->
 ---
 
+<b>Note</b>: There was no problems with mobile phase or needle wash or any method changes.  
+
 ## Symptom
 <div class = "row">
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-18 221057.png" style ="float: left" HSPACE="10" VSPACE="10"/>

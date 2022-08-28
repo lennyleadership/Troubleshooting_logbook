@@ -16,6 +16,7 @@ toc: true
 
 <!--more-->
 ---
+<b>Note</b>: There was no problems with mobile phase or needle wash or any method changes.  
 
 ## Symptom
 <div class = "row">
@@ -34,25 +35,22 @@ toc: true
 <b>A</b>: Nothing wrong with it.  
 4) <b>Q</b>: Double-checked with the autosampler  
 <b>A</b>: Injected an opiate low calibrator. Got a normal peak area.  The autosampler was okay, no leak.  
-5) <b>Q</b>: Check the trend of the system suitability test results.
+5) <b>Q</b>: Check the trend of the system suitability test results.  
 <b>A</b>: Looked at the trend of vitamin D to internal standard peak area.  We saw the peak areas were dropped over time.  
 That is particularly true if I tell you that our other mass spec instrument instrument number two has D2 IS mean peak areas that are around 90,000, about where we started out in February with instrument number one. So we took the samples from one and injected them on two. And we did see those higher peak areas again suggesting that there's problem with the Mass Spec of number one. 
 6) <b>Q</b>: Checked with the mass spec and drilled down to the specific part:   
-&emsp;a) The electrospray ionization capillary could be aged.
+&emsp;a) The electrospray ionization capillary could be aged.  
 &emsp;b) The mass calibration or resolution could have drifted.  
 &emsp;c) The detector voltage could be low.   
-&emsp;d) The mass spec interface region could be dirty. 
-<b>A</b>: &emsp;a) the ESI capillary had been changed fairly recently, we didn't think that was the problem.   
+&emsp;d) The mass spec interface region could be dirty.   
+<b>A</b>: &nbsp;a) the ESI capillary had been changed fairly recently, we didn't think that was the problem.   
 &emsp;b) The resolution and calibration were all fine.  
 &emsp;c) The detector voltage was fine.  
 &emsp;d) Replaced the mass spec interface region, the peak area was almost doubling.
 
 <b>Root Cause</b>: dirty mass spec interface region
 
-<div class = "row">
-<img width ="720" height= "400" src = "/docs/images/" style ="float: left" HSPACE="10" VSPACE="10"/>  
-<figure> </figure>
-</div>
+
 
 
 
