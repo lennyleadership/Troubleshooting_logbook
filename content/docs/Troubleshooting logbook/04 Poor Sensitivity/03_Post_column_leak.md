@@ -35,6 +35,7 @@ toc: true
 
 <b>Lesson Learned</b>: why did the system suitability test pass if there was a leak present? Well, we had set the threshold too low.  
 
+<b>Question for follow-up</b>: Could pressure trace be handy for detecting post-column leak?
 
 
 
