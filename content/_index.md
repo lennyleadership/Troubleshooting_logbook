@@ -6,15 +6,16 @@ type: docs
 
 This is an electronic troubleshooting logbook prototype.  The idea of developing it came from my experience with the practice at LifeLabs (Burnaby, BC) where we wrote down troubleshooting on paper, then scanned the hard copy to pdf and stored away on a server. There is a fleet of over 10 LC-MS/MS instruments in operations.  Many of troubleshooting records were generated. It is my attempt to address the efficiency of searching problems and solutions among records.
 
-This electronic troubleshooting logbook prototype is HTML-based, rather than SQL-based.  One reason behind it is: It is a small project that the lab would not get much support from the organization IT group.  A lab scientist would not have skill in building a SQL database, especially handling screenshot or images with SQL database.  However, because this prototype has features of categories and tags,  the problems and solutions are organized. Therefore they can be sorted. 
+This electronic troubleshooting logbook prototype would be considered as a database, however it is not built with SQL, but a HTML-based tool.  One reason behind it is: It is such a small project that the organization IT group would not have time for it; and a lab scientist would not have skills in building a SQL database, especially handling screenshot or images with SQL database.
 
-An online and an offline option are doable, but I prefer the online option because the revision can be controlled to comply with requirements of quality management by incorporating with [GitHub for enterprises](https://github.com/enterprise?ef_id=a3551c9ee71d1c9b2bba7f96e74a429f:G:s&OCID=AID2202671_SEM_a3551c9ee71d1c9b2bba7f96e74a429f:G:s&msclkid=a3551c9ee71d1c9b2bba7f96e74a429f) which is owned and operated by Microsoft. Therefore the data security is achievable. 
+There are two advantages of taking the HTML-based approach: 1) There is a feature of category and tag.  Each problem and solution can be labeled under different categories and tags. As a result, problems and solutions can be sorted for statistical analysis or trending purpose. 2) There is a feature of version control.  Every change is tracked to comply with quality management requirements.
 
+With regards to the security concern, such electronic logbook can be built at a local computer or a local server.  
 
 
 Lenny Lin  
 
-[<i class="fa fa-linkedin-square" style="font-size:24px;color:red"></i>](https://www.linkedin.com/in/lenny-lin/)
+[<i class="fa fa-linkedin-square" style="font-size:24px;color:black"></i>](https://www.linkedin.com/in/lenny-lin/)
 
 Date: 2022-08-18
 
