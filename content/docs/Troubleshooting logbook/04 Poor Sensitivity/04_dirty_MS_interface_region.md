@@ -2,7 +2,7 @@
 weight: 4
 title: MS Interface Region Issue
 authors: null
-categories: ["MS/MS: Sensitivity"]
+categories: ["LC-MS/MS: Sensitivity"]
 tags: [MS Interface Region]
 date: "2022-08-16"
 description:  
@@ -11,6 +11,8 @@ lastmod: "2022-08-27"
 series: null
 toc: true
 ---
+Directory: 04 Poor Sensitivity    
+File name: 04_dirty_MS_interface_region
 
 
 

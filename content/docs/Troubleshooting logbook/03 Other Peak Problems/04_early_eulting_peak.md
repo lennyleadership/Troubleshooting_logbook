@@ -11,7 +11,8 @@ lastmod: "2022-08-21"
 series: null
 toc: true
 ---
-
+Directory: 03 Other Peak Problems  
+file name: 04_early_eulting_peak
 
 
 <!--more-->

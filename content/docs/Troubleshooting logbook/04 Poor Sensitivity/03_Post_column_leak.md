@@ -2,7 +2,7 @@
 weight: 3
 title: Post Column Leak Issue
 authors: null
-categories: ["LC-Sensitivity"]
+categories: ["LC: Sensitivity"]
 tags: [Leak]
 date: "2022-08-16"
 description:  
@@ -11,6 +11,8 @@ lastmod: "2022-08-27"
 series: null
 toc: true
 ---
+Directory: 04 Poor Sensitivity    
+File name: 03_Post_column_leak
 
 
 
