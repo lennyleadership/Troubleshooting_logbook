@@ -2,7 +2,7 @@
 weight: 2
 title: Sample was not collected
 authors: null
-categories: ["LC-MS/MS: Sensitivity"]
+categories: ["Sample Prep: Sensitivity"]
 tags: 
 date: "2022-08-16"
 description:  

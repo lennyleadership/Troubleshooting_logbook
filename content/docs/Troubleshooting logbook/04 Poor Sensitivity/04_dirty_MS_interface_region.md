@@ -2,7 +2,7 @@
 weight: 4
 title: MS Interface Region Issue
 authors: null
-categories: ["LC-MS/MS: Sensitivity"]
+categories: ["MS/MS: Sensitivity"]
 tags: [MS Interface Region]
 date: "2022-08-16"
 description:  
