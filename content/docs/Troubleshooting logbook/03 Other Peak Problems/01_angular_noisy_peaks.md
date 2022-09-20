@@ -2,7 +2,7 @@
 weight: 1
 title: Dwell Time Setting Issue
 authors: null
-categories: ["MS/MS: Peak Shape"]
+categories: ["Peak Shape <- MS/MS"]
 tags: [Dwell Time]
 date: "2022-08-21"
 description:  

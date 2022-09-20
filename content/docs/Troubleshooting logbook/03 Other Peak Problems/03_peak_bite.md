@@ -2,7 +2,7 @@
 weight: 3
 title: Ion Suppression Issue
 authors: null
-categories: ["MS/MS: Peak Shape"]
+categories: ["Peak Shape <- MS/MS"]
 tags: [Peak Bite]
 date: "2022-08-21"
 description:  

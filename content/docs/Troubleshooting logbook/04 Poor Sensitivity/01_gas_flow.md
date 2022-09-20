@@ -2,7 +2,7 @@
 weight: 1
 title: Gas flow issue
 authors: null
-categories: ["Supplies: Sensitivity"]
+categories: ["Sensitivity <- Supplies"]
 tags: 
 date: "2022-08-16"
 description:  

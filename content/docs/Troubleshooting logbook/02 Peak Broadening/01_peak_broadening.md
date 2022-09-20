@@ -2,7 +2,7 @@
 weight: 1
 title: Guard Column Issue
 authors: null
-categories: ["LC: Peak Shape"]
+categories: ["Peak Shape <- HPLC"]
 tags: [Peak Broadening]
 date: "2022-08-21"
 description:  

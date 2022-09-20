@@ -2,7 +2,7 @@
 weight: 01
 title: "Extra (Ghost) Peak"
 authors: null
-categories: [HPLC: Peak]
+categories: ["Peak <- HPLC"]
 tags: [Extra Peak]
 date: "2022-08-23"
 description:  

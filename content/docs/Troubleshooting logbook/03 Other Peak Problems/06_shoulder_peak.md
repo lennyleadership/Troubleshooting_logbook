@@ -2,7 +2,7 @@
 weight: 6
 title: Ferrule Issue - Inappropriate Ferrule
 authors: null
-categories: ["LC: Peak Shape"]
+categories: ["Peak Shape <- HPLC"]
 tags: [Plumbing, Ferrule, Peak Shoulder]
 date: "2022-08-21"
 description:  

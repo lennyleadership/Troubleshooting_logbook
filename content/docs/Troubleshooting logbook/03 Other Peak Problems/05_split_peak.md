@@ -2,7 +2,7 @@
 weight: 5
 title: Fitting Issue
 authors: null
-categories: ["LC: Peak Shape"]
+categories: ["Peak Shape <- HPLC"]
 tags: [Plumbing, Fitting, Split Peak]
 date: "2022-08-21"
 description:  

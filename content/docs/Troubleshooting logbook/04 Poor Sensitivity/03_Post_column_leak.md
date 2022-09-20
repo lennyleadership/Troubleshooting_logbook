@@ -2,7 +2,7 @@
 weight: 3
 title: Post Column Leak Issue
 authors: null
-categories: ["LC: Sensitivity"]
+categories: ["Sensitivity <- HPLC"]
 tags: [Leak]
 date: "2022-08-16"
 description:  
