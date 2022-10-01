@@ -39,8 +39,8 @@ file name: 01_peak_broadening
 
 </div>
 
-*Reference*:  
-[MSACL: LC-MSMS Troubleshooting 101: Tips and Tricks for Getting Started : PART 1](https://www.msacl.org/index.php?header=Learning_Center&tab=Video_Library&subtab=Search_Video_Library)  
+**Reference**:   
+[MSACL. LC-MSMS Troubleshooting 101: Tips and Tricks for Getting Started : PART 1](https://www.msacl.org/index.php?header=Learning_Center&tab=Video_Library&subtab=Search_Video_Library)  
 [MSACL: The Basics of LC-MSMS Troubleshooting: Tools, Strategy, Cases](https://www.msacl.org/index.php?header=Learning_Center&tab=Video_Library&subtab=Search_Video_Library)  
 
-<button class="button" onclick="history.back()">Go Back</button>
+<a href="https://troubleshooting-logbook.netlify.app/docs/troubleshooting-logbook/02-peak-broadening/" class="button">Go to "PEAK BROADENING"</a>

@@ -54,9 +54,6 @@ That is particularly true if I tell you that our other mass spec instrument inst
 
 
 
+[**Reference**: MSACL. The Basics of LC-MSMS Troubleshooting: Tools, Strategy, Cases](https://www.msacl.org/index.php?header=Learning_Center&tab=Video_Library&subtab=Search_Video_Library)  
 
-
-*Reference*:  
-[MSACL: The Basics of LC-MSMS Troubleshooting: Tools, Strategy, Cases](https://www.msacl.org/index.php?header=Learning_Center&tab=Video_Library&subtab=Search_Video_Library)  
-
-<button class="button" onclick="history.back()">Go Back</button>
+<a href="https://troubleshooting-logbook.netlify.app/docs/troubleshooting-logbook/04-poor-sensitivity/" class="button">Go to "POOR SENSITIVITY"</a>

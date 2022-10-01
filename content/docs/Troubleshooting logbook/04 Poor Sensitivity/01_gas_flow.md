@@ -44,7 +44,7 @@ File name:
 Maybe a millimeter and a half and this is barely protruding at all. We're getting barely protruding on whistle blow sensitive this is `the low sensitivity`. So this is not properly adjusted for this simply configuration. And nebulization is not as effective.  
 </div>
 
-*Reference*:  
-[MSACL: LC-MSMS Troubleshooting 101: Tips and Tricks for Getting Started : PART 1](https://www.msacl.org/index.php?header=Learning_Center&tab=Video_Library&subtab=Search_Video_Library)  
+  
+[**Reference**: MSACL. LC-MSMS Troubleshooting 101: Tips and Tricks for Getting Started : PART 1](https://www.msacl.org/index.php?header=Learning_Center&tab=Video_Library&subtab=Search_Video_Library)  
 
-<button class="button" onclick="history.back()">Go Back</button>
+<a href="https://troubleshooting-logbook.netlify.app/docs/troubleshooting-logbook/04-poor-sensitivity/" class="button">Go to "POOR SENSITIVITY"</a>
