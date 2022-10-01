@@ -39,3 +39,5 @@ The peak on the left is angular-looking.  The peak on the right is noisy.
 
 
 <button class="button" onclick="history.back()">Go Back</button>
+
+<a href="https://troubleshooting-logbook.netlify.app/docs/troubleshooting-logbook/03-other-peak-problems/" class="button">RETURN</a>
