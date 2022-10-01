@@ -38,6 +38,4 @@ The peak on the left is angular-looking.  The peak on the right is noisy.
 [MSACL: LC-MSMS Troubleshooting 101: Tips and Tricks for Getting Started : PART 1](https://www.msacl.org/index.php?header=Learning_Center&tab=Video_Library&subtab=Search_Video_Library)  
 
 
-<button class="button" onclick="history.back()">Go Back</button>
-
-<a href="https://troubleshooting-logbook.netlify.app/docs/troubleshooting-logbook/03-other-peak-problems/" class="button">RETURN</a>
+<a href="https://troubleshooting-logbook.netlify.app/docs/troubleshooting-logbook/03-other-peak-problems/" class="button">Go to "OTHER PEAK PROBLEMS"</a>
