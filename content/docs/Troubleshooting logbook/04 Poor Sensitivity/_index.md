@@ -4,6 +4,8 @@ title: Poor Sensitivity
 bookCollapseSection: true
 ---
 
+Here is the Cause-Effect diagram for troubleshooting Poor Sensitivity.  
+
 <img width ="360" height= "200" src = "/docs/images/" style ="float: left"/>
 
 

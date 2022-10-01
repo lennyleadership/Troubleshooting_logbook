@@ -102,3 +102,11 @@ figure {
   cursor: pointer;
 }
 /* back button end*/
+
+/* center the image */
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  /*width: 50%; /* image zoom*/
+}
