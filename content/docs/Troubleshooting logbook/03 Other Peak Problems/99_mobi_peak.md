@@ -29,3 +29,4 @@ It is seen on Waters TQS system, very reproducible, sometimes for a whole batch 
 
 ## Tool and Root Cause
 
+<a href="https://troubleshooting-logbook.netlify.app/docs/troubleshooting-logbook/03-other-peak-problems/" class="button">Go to "OTHER PEAK PROBLEMS"</a>
