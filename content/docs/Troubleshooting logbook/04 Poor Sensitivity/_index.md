@@ -6,7 +6,7 @@ bookCollapseSection: true
 
 Here is the Cause-Effect diagram for troubleshooting Poor Sensitivity.  
 
-<img width ="360" height= "200" src = "/docs/images/" style ="float: left"/>
+<img width ="540" height= "300" src = "/docs/images/" class = "center"/>
 
 
 
