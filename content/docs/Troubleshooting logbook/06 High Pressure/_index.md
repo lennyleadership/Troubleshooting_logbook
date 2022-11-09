@@ -17,7 +17,7 @@ bookCollapseSection: true
 
 Here is the Cause-Effect diagram for troubleshooting High Pressure.  
 
-<img width ="540" height= "300" src = "/docs/images/" class = "center"/>
+<img width ="540" height= "300" src = "/docs/images/Screenshot 2022-11-09 132456.png" class = "center"/>
 
 
 
