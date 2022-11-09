@@ -1,8 +1,19 @@
 ---
 weight: 11
 title: Other Peak Problems
+authors: Lenny Lin
+categories: null
+tags: null
+description: 
+draft: false
+date: "2022-11-08"
+lastmod: "2022-11-08"
+series: null
+toc: true
 bookCollapseSection: true
 ---
+
+
 
 Here is the Cause-Effect diagram for troubleshooting other peak problems.  
 
