@@ -24,7 +24,9 @@ Here is the Cause-Effect diagram for troubleshooting High Pressure.
 <!--more-->
 ---
 
-**<font color = "#0000a7">The causes listed in the diagram were investigated during the troubleshooting</font>**:
+**<font color = "#0000a7">The causes listed in the diagram were investigated during the troubleshooting</font>**:  
+
+The specification for modern pumps is that the pressure variation should not exceed about 1%. 
 {{<section>}}
 
 
