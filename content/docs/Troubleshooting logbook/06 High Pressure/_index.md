@@ -19,7 +19,12 @@ Here is the Cause-Effect diagram for troubleshooting High Pressure.
 
 <img width ="540" height= "300" src = "/docs/images/Screenshot 2022-11-09 132456.png" class = "center"/>
 
+**Source**: <a href = "https://www.chromatographyonline.com/view/essentials-of-lc-troubleshooting-part-i-pressure-problems" target="_blank" rel="noopener noreferrer">Essentials of LC Troubleshooting, Part I: Pressure Problems</a>
 
+<!--more-->
+---
 
 **<font color = "#0000a7">The causes listed in the diagram were investigated during the troubleshooting</font>**:
 {{<section>}}
+
+
