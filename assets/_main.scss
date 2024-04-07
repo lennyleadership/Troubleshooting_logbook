@@ -29,18 +29,22 @@ h5 {
   font-weight: $body-font-weight;
 }
 
+
 a {
   text-decoration: none;
   color: var(--color-link);
 }
 
+
 img {
   vertical-align: baseline;
 }
 
+
 :focus {
   @include outline;
 }
+
 
 aside nav ul {
   padding: 0;
@@ -64,6 +68,7 @@ aside nav ul {
     padding-inline-start: $padding-16;
   }
 }
+
 
 ul.pagination {
   display: flex;
@@ -226,6 +231,7 @@ body[dir="rtl"] .book-menu {
   }
 }
 
+
 .book-toc {
   flex: 0 0 $toc-width;
   font-size: $font-size-12;
@@ -247,6 +253,7 @@ body[dir="rtl"] .book-menu {
   }
 }
 
+
 .book-footer {
   padding-top: $padding-16;
   font-size: $font-size-14;
@@ -258,9 +265,11 @@ body[dir="rtl"] .book-menu {
   }
 }
 
+
 .book-comments {
   margin-top: $padding-16;
 }
+
 
 .book-languages {
   margin-block-end: $padding-16 * 2;
@@ -286,6 +295,7 @@ body[dir="rtl"] .book-menu {
   transition-property: transform, margin, opacity, visibility;
   will-change: transform, margin, opacity;
 }
+
 
 @media screen and (max-width: $mobile-breakpoint) {
   #menu-control,
@@ -353,6 +363,7 @@ body[dir="rtl"] .book-menu {
     }
   }
 }
+
 
 // Extra space for big screens
 @media screen and (min-width: $container-max-width) {
